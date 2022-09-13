@@ -1,2 +1,2 @@
-# suwit_jawa
+# Suwit Jawa
 Game suwit jawa
